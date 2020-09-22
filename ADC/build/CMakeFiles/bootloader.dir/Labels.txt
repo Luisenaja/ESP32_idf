@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader
+/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader-complete.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
