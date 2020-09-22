@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "/home/luisenaja/esp-idf/components/bootloader/subproject",
-    "build_dir":          "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader",
-    "config_file":        "/home/luisenaja/luise/ESP32_training_IDF/GPIO/sdkconfig",
+    "build_dir":          "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader",
+    "config_file":        "/home/luisenaja/luise/ESP32_idf/GPIO/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

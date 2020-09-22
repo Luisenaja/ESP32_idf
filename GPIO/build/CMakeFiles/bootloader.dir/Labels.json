@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/CMakeFiles/bootloader"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/luisenaja/luise/ESP32_training_IDF/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/luisenaja/luise/ESP32_idf/GPIO/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		}
 	],
 	"target" : 

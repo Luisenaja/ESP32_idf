@@ -1,4 +1,4 @@
-# Install script for directory: /home/luisenaja/luise/ESP32_training_IDF/GPIO/main
+# Install script for directory: /home/luisenaja/luise/ESP32_idf/GPIO/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
